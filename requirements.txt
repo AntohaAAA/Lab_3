@@ -2,3 +2,4 @@ dash==2.15.0
 pandas
 plotly
 yfinance
+gunicorn
